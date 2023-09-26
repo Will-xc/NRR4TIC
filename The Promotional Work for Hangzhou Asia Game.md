@@ -11,6 +11,7 @@ We are thrilled to invite you to embark on a thrilling journey of sportsmanship,
 
 <video id="video" controls=""src="http://cdn.willstudy.net.cn/NRR4TIC/Resources/Towin.mp4" preload="none">
 </video>
+[![Watch the video](http://cdn.willstudy.net.cn/NRR4TIC/Resources/1.png)](http://cdn.willstudy.net.cn/NRR4TIC/Resources/Towin.mp4)
 
 🐼 **Meet "Jiangnan Yi" – The Mascots of Hangzhou Asian Games** 🐼 Introducing our mascots, "Cong Cong," "Lian Lian," and "Chen Chen." Inspired by the poetic words of Bai Juyi, "Jiangnan Yi, the most memorable is Hangzhou," these mascots bring together the rich cultural heritage and the dynamism of today's Hangzhou. Each mascot represents a world heritage site, showcasing the deep connection of Hangzhou to its history and nature.
 
