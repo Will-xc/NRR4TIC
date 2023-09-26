@@ -10,7 +10,7 @@ We are thrilled to invite you to embark on a thrilling journey of sportsmanship,
 
 🥇 **"To Win" – The Anthem of Champions** 🥇 Our athletes are not just competitors; they are the embodiment of determination, unwavering spirit, and victory. "To Win," one of the seven songs that resonate across Hangzhou, encapsulates their journey. From pure-hearted dreams to relentless training, our athletes personify the Asian Games' spirit, a spirit that knows no bounds.
 
-[![Watch the video](http://cdn.willstudy.net.cn/NRR4TIC/Resources/TowinPNG.png)](http://cdn.willstudy.net.cn/NRR4TIC/Resources/Towin.mp4)
+[![Watch the video](http://cdn.willstudy.net.cn/NRR4TIC/Resources/1.png)](http://cdn.willstudy.net.cn/NRR4TIC/Resources/Towin.mp4)
 
 🐼 **Meet "Jiangnan Yi" – The Mascots of Hangzhou Asian Games** 🐼 Introducing our mascots, "Cong Cong," "Lian Lian," and "Chen Chen." Inspired by the poetic words of Bai Juyi, "Jiangnan Yi, the most memorable is Hangzhou," these mascots bring together the rich cultural heritage and the dynamism of today's Hangzhou. Each mascot represents a world heritage site, showcasing the deep connection of Hangzhou to its history and nature.
 
