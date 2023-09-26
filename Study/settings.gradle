@@ -1,2 +1,0 @@
-include ':app', ':searchview'
-rootProject.name='Study'
